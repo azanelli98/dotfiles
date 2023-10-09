@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ali_zanelli@yahoo.co.uk
+	name = Alessandra Zanelli
